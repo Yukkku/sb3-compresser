@@ -24,7 +24,7 @@
             name = "dev";
             packages = with pkgs; [
               bun
-	      typescript-language-server
+              typescript-language-server
               nixd
               nixfmt
             ];
